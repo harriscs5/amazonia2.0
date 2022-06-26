@@ -4,7 +4,7 @@ const data ={
             name: 'Backwood barbie',
             slug: 'Backwood-barbie',
             category: 'T-shirt',
-            image: '/images/p1..jpg',
+            image: '/images/p1.png',
             price: 30,
             countInStock: 5,
             brand: 'Nike',
@@ -16,7 +16,7 @@ const data ={
             name: 'Will Smith 90s Flashback',
             slug: 'will-smith-90s-flashback',
             category: 'Hoodie',
-            image: '/images/p1..jpg',
+            image: '/images/p2.png',
             price: 30,
             countInStock: 10,
             brand: 'Nike',
@@ -27,7 +27,7 @@ const data ={
             name: 'Pretty Black & Dope',
             slug: 'pretty-black-&-dope',
             category: 'Hoodie',
-            image: '/images/p1..jpg',
+            image: '/images/p3.png',
             price: 30,
             countInStock: 10,
             brand: 'Nike',
@@ -37,3 +37,4 @@ const data ={
         },
     ],
 };
+export default data;
